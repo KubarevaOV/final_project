@@ -1,0 +1,15 @@
+/Users/dmitrykuklin/Documents/HomeWork/final_project/bin/Debug/net7.0/final_project
+/Users/dmitrykuklin/Documents/HomeWork/final_project/bin/Debug/net7.0/final_project.deps.json
+/Users/dmitrykuklin/Documents/HomeWork/final_project/bin/Debug/net7.0/final_project.runtimeconfig.json
+/Users/dmitrykuklin/Documents/HomeWork/final_project/bin/Debug/net7.0/final_project.dll
+/Users/dmitrykuklin/Documents/HomeWork/final_project/bin/Debug/net7.0/final_project.pdb
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/final_project.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/final_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/final_project.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/final_project.AssemblyInfo.cs
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/final_project.csproj.CoreCompileInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/final_project.dll
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/refint/final_project.dll
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/final_project.pdb
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/final_project.genruntimeconfig.cache
+/Users/dmitrykuklin/Documents/HomeWork/final_project/obj/Debug/net7.0/ref/final_project.dll
